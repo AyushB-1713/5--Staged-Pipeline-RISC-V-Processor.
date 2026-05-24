@@ -21,6 +21,7 @@ Forwarding unit for data hazards,
 Simple instruction memory for simulation
 
 Supported Instructions
+
 i)R-type arithmetic/logical: ADD, SUB, AND, OR, XOR, SLT
 
 ii)I-type arithmetic/logical: ADDI, ANDI, ORI, XORI, SLTI
